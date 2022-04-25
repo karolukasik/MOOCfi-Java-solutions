@@ -1,0 +1,576 @@
+course = 'mooc-java-programming-i'
+[exercises."part01-Part01_01.Sandbox"]
+id = 83113
+checksum = 'f66cdecdd391c8f585fc23317dca5e3f'
+
+[exercises."part01-Part01_30.LargerThanOrEqualTo"]
+id = 83142
+checksum = 'a740062f4a903dd0b4b963e959ebf440'
+
+[exercises."part01-Part01_31.GradesAndPoints"]
+id = 83143
+checksum = 'f258e24ff4575ba11a3a92c8ceaffd33'
+
+[exercises."part01-Part01_32.OddOrEven"]
+id = 83144
+checksum = '69e8b3ca07f8e0a85775e00f9575b81c'
+
+[exercises."part01-Part01_33.Password"]
+id = 83145
+checksum = '9ad49c19b3931986d76908cd536576c2'
+
+[exercises."part01-Part01_34.Same"]
+id = 83146
+checksum = '7a0348a3b7ebe19b7ae8be1ce0798673'
+
+[exercises."part01-Part01_35.CheckingTheAge"]
+id = 83147
+checksum = 'e5bfc89c434cd1293fc0b343cbdcd5a6'
+
+[exercises."part01-Part01_36.LeapYear"]
+id = 83148
+checksum = '2624eaf5db3a7cf6b826e324df71967e'
+
+[exercises."part01-Part01_37.GiftTax"]
+id = 83149
+checksum = 'f2d3ce4e84a51ed69d7e991b2deb376c'
+
+[exercises."part02-Part02_01.Squared"]
+id = 83150
+checksum = '09a6680d3725d37e6a984743aabd46c7'
+
+[exercises."part02-Part02_02.SquareRootOfSum"]
+id = 83151
+checksum = '97b71902e421c1f260c516f89d15a78e'
+
+[exercises."part02-Part02_03.AbsoluteValue"]
+id = 83152
+checksum = '62ef8b43898b94088983a472b6f17c9f'
+
+[exercises."part02-Part02_04.ComparingNumbers"]
+id = 83153
+checksum = 'd4f3bd702039e43f177d100419c9de18'
+
+[exercises."part02-Part02_05.CarryOn"]
+id = 83154
+checksum = 'bb3bc22189802bbc33011d229a68f046'
+
+[exercises."part02-Part02_06.AreWeThereYet"]
+id = 83155
+checksum = 'cb510bca5897924fee73a3de7d0cf0f1'
+
+[exercises."part02-Part02_07.OnlyPositives"]
+id = 83156
+checksum = 'bf09e7e53e07c129c3df7c65859db0f8'
+
+[exercises."part02-Part02_08.NumberOfNumbers"]
+id = 83157
+checksum = '3386c611ed60332f18700947bb68ea86'
+
+[exercises."part02-Part02_09.NumberOfNegativeNumbers"]
+id = 83158
+checksum = '57f08f24849fe84f6cf38b63affaf48c'
+
+[exercises."part02-Part02_10.SumOfNumbers"]
+id = 83159
+checksum = '6fca0be39db123e0ef1512671a41d797'
+
+[exercises."part02-Part02_11.NumberAndSumOfNumbers"]
+id = 83160
+checksum = '464c6c65c873948bbd61eacd688c373c'
+
+[exercises."part02-Part02_12.AverageOfNumbers"]
+id = 83161
+checksum = '0abdd28e44c96c73593ed63dddf10549'
+
+[exercises."part02-Part02_13.AverageOfPositiveNumbers"]
+id = 83162
+checksum = '7140812605391468733790dd476558e8'
+
+[exercises."part02-Part02_14.Counting"]
+id = 83163
+checksum = '75b7b06f29784202169bb2bb5f457bd9'
+
+[exercises."part02-Part02_15.CountingToHundred"]
+id = 83164
+checksum = '990fd2c6898989fd0a8e6fa33f9b4e0d'
+
+[exercises."part02-Part02_16.FromWhereToWhere"]
+id = 83165
+checksum = '9dec8b5c80890aee7cf6ef0af46b3d9f'
+
+[exercises."part02-Part02_17.SumOfASequence"]
+id = 83166
+checksum = '24d89a6dd262dde88d7ec831a24f1957'
+
+[exercises."part02-Part02_18.SumOfASequenceTheSequel"]
+id = 83167
+checksum = 'c62ae66c4ebacbff1a5409ffc5480105'
+
+[exercises."part02-Part02_19.Factorial"]
+id = 83168
+checksum = 'af124d2df2660a4a96be01a91a22f8b9'
+
+[exercises."part02-Part02_20.RepeatingBreakingAndRemembering"]
+id = 83169
+checksum = '117aa3bdc3b9ba330560881404d8022e'
+
+[exercises."part02-Part02_21.InAHoleInTheGround"]
+id = 83170
+checksum = 'f2801bd6199f58052bd34fbe1010f3cc'
+
+[exercises."part02-Part02_22.Reprint"]
+id = 83171
+checksum = 'b872a7e82662a56debfff92554e80e09'
+
+[exercises."part02-Part02_23.FromOneToParameter"]
+id = 83172
+checksum = 'bd38ff929b6964df69148e7820ce231d'
+
+[exercises."part02-Part02_24.FromParameterToOne"]
+id = 83173
+checksum = '0a22d04b414aef2e737cfbb9dfe985a5'
+
+[exercises."part02-Part02_25.Division"]
+id = 83174
+checksum = '99c55336b0342aaa32908d5a8307e7f0'
+
+[exercises."part02-Part02_26.DivisibleByThree"]
+id = 83175
+checksum = 'b54dbfe13d74c5e8d1480d1603c078a0'
+
+[exercises."part02-Part02_27.NumberUno"]
+id = 83176
+checksum = 'b72f51eb57ac4dab64058d94ffbfd615'
+
+[exercises."part02-Part02_28.Word"]
+id = 83177
+checksum = '0e3675d2e62b480c5233fd1b633b9a0e'
+
+[exercises."part02-Part02_29.Summation"]
+id = 83178
+checksum = '9ada5dac4f43f12e30ea228c247769fd'
+
+[exercises."part02-Part02_30.Smallest"]
+id = 83179
+checksum = 'b6eb4b1182a296e218d483f45f06ee94'
+
+[exercises."part02-Part02_31.Greatest"]
+id = 83180
+checksum = '047c649d324cac9d03f972f9a5e98c73'
+
+[exercises."part02-Part02_32.Averaging"]
+id = 83181
+checksum = 'cf5f21ebfc9e8f39c9fd9297b8ad6f77'
+
+[exercises."part02-Part02_33.StarSign"]
+id = 83182
+checksum = 'e2bfcbb82f343882c68d7e325010d400'
+
+[exercises."part02-Part02_34.AdvancedAstrology"]
+id = 83183
+checksum = '4d40b1e8751b17fb5b37e45bd75326be'
+
+[exercises."part03-Part03_01.ThirdElement"]
+id = 83184
+checksum = '3ff9950e1c7d96bcb46a927978d1e767'
+
+[exercises."part03-Part03_02.SecondPlusThird"]
+id = 83185
+checksum = '131c9b914f1ef90725651049e8f3eb8a'
+
+[exercises."part03-Part03_03.IndexOutOfBoundsException"]
+id = 83186
+checksum = '1dcccc864af942591d5d34f56e245377'
+
+[exercises."part03-Part03_04.ListSize"]
+id = 83187
+checksum = '41db717a5de29423a56e31b3c5fbdbcc'
+
+[exercises."part03-Part03_05.LastInList"]
+id = 83188
+checksum = '97bdff87ee418956b48e6c4ce6e47e73'
+
+[exercises."part03-Part03_06.FirstAndLast"]
+id = 83189
+checksum = '3ef3d0bb4d32c466b8bb863e4687b464'
+
+[exercises."part03-Part03_07.RememberTheseNumbers"]
+id = 83190
+checksum = 'c36d6acf52265499528537f4950f4483'
+
+[exercises."part03-Part03_08.OnlyTheseNumbers"]
+id = 83191
+checksum = '43009e46eea3681175073298b64dabd2'
+
+[exercises."part03-Part03_09.GreatestInList"]
+id = 83192
+checksum = 'c3e9c96d04a5aa934604b6f1068fe67b'
+
+[exercises."part03-Part03_10.IndexOf"]
+id = 83193
+checksum = '64da91023345b85fceec81d39832d96f'
+
+[exercises."part03-Part03_11.IndexOfSmallest"]
+id = 83194
+checksum = 'becdf7f93daf7473806abbf95855a53c'
+
+[exercises."part03-Part03_12.SumOfAList"]
+id = 83195
+checksum = '388fb8ebe8e9bc0aa57eb9bb0c8666e8'
+
+[exercises."part03-Part03_13.AverageOfAList"]
+id = 83196
+checksum = '3a103fc17af7f4f4952b03ce567d47e6'
+
+[exercises."part03-Part03_14.OnTheList"]
+id = 83197
+checksum = 'e23dec313af671f0dccf69e3b7dd060f'
+
+[exercises."part03-Part03_15.PrintInRange"]
+id = 83198
+checksum = '31ceeef1ac6b18a130727042ebb3f298'
+
+[exercises."part03-Part03_16.Sum"]
+id = 83199
+checksum = 'd32f9436bf37776f86ac390d2a3270b2'
+
+[exercises."part03-Part03_17.RemoveLast"]
+id = 83200
+checksum = '84306d83f48976fba8fa4d0c20c09f2e'
+
+[exercises."part03-Part03_18.Swap"]
+id = 83201
+checksum = '6eec176d6e61541fa7e258a90f4c0296'
+
+[exercises."part03-Part03_19.IndexWasNotFound"]
+id = 83202
+checksum = 'd68543f59cd71f4e50d006bd97d7a6f7'
+
+[exercises."part03-Part03_20.SumOfArray"]
+id = 83203
+checksum = 'a2316afccec285297fdedf2a829f9be4'
+
+[exercises."part03-Part03_21.PrintNeatly"]
+id = 83204
+checksum = '33cdcaec1abf86c8e55d9269a26b6f69'
+
+[exercises."part03-Part03_22.PrintInStars"]
+id = 83205
+checksum = '1e00dd52efbc6448b99a7bbaa4634075'
+
+[exercises."part03-Part03_23.PrintThrice"]
+id = 83206
+checksum = '4d8bacf2a73881b4cdc6d6babfb16f1f'
+
+[exercises."part03-Part03_24.IsItTrue"]
+id = 83207
+checksum = '698ce3f668b3f0c39998680dbbc91373'
+
+[exercises."part03-Part03_25.Login"]
+id = 83208
+checksum = '6acf56609fd04c10930cfb65406d2b7a'
+
+[exercises."part03-Part03_26.LineByLine"]
+id = 83209
+checksum = 'f579043ccd7a0dc8202ee38c43cf9b98'
+
+[exercises."part03-Part03_27.AVClub"]
+id = 83210
+checksum = 'c0d37e992e35542ad0f9745bf1b70e11'
+
+[exercises."part03-Part03_28.FirstWords"]
+id = 83211
+checksum = '9f14b4a59bba79d156ec66a2b0012047'
+
+[exercises."part03-Part03_29.LastWords"]
+id = 83212
+checksum = '0670e0198ac36403ebdfd9d820cb6701'
+
+[exercises."part03-Part03_30.AgeOfTheOldest"]
+id = 83213
+checksum = 'f2b26809b5fc93b50d839e89fec64d9f'
+
+[exercises."part03-Part03_31.NameOfTheOldest"]
+id = 83214
+checksum = 'd952c75347d148eced8994e387683def'
+
+[exercises."part03-Part03_32.PersonalDetails"]
+id = 83215
+checksum = 'b0f44f6d7a3ca7183c404840871e6519'
+
+[exercises."part04-Part04_01.YourFirstAccount"]
+id = 83216
+checksum = '1143b97d60c723f0d13f3983831ec3fa'
+
+[exercises."part04-Part04_02.YourFirstBankTransfer"]
+id = 83217
+checksum = '40a13bd058474e6f0d68b3c74d15f33d'
+
+[exercises."part04-Part04_03.DogAttributes"]
+id = 83218
+checksum = '8930062b81f21c0fbbb27a174347d00a'
+
+[exercises."part04-Part04_04.Room"]
+id = 83219
+checksum = 'eb7d4f0532699bef2df7e8e585af0c8c'
+
+[exercises."part04-Part04_05.Whistle"]
+id = 83220
+checksum = '3fccbdfd554ed60c874b840d73f789cb'
+
+[exercises."part04-Part04_06.Door"]
+id = 83221
+checksum = '38045514092dc4471b5b1ac7eb01deb1'
+
+[exercises."part04-Part04_07.Product"]
+id = 83222
+checksum = 'f73cdb9ef911b9e6135f63d10879d5e8'
+
+[exercises."part04-Part04_08.DecreasingCounter"]
+id = 83223
+checksum = '297c41bc44aeddb5a2c0823eb63caaef'
+
+[exercises."part04-Part04_09.Debt"]
+id = 83224
+checksum = 'b9657a23fc62195f51f7a7f4b50f2d9b'
+
+[exercises."part04-Part04_10.Song"]
+id = 85612
+checksum = 'a8d7ceba22de8084addb0512ecf0edcd'
+
+[exercises."part04-Part04_11.Film"]
+id = 83226
+checksum = '5db592523686c611b09c0bd4363af6aa'
+
+[exercises."part04-Part04_12.Gauge"]
+id = 83227
+checksum = 'aab20185a8a10f1776ff134832da8edb'
+
+[exercises."part04-Part04_13.Agent"]
+id = 83228
+checksum = '06ee2e051c71e330cb31b39384a01a32'
+
+[exercises."part04-Part04_14.Multiplier"]
+id = 83229
+checksum = '46cd09c96f97fbd14391dfb972410bc7'
+
+[exercises."part04-Part04_15.NumberStatistics"]
+id = 83230
+checksum = 'f7d6383dc9ab80159fe8b8e3ca051630'
+
+[exercises."part04-Part04_16.PaymentCard"]
+id = 83231
+checksum = '51bf0f419f24d3258daa2a65d52689ac'
+
+[exercises."part04-Part04_17.Items"]
+id = 83232
+checksum = '927f3874a3895b9cec1eb348d98eff69'
+
+[exercises."part04-Part04_18.PersonalInformation"]
+id = 83233
+checksum = '0aef3e8a556784d427790d1b48d3abbe'
+
+[exercises."part04-Part04_19.TelevisionPrograms"]
+id = 83234
+checksum = '5523d95585f8a2598dd448b573a9707a'
+
+[exercises."part04-Part04_20.Books"]
+id = 83235
+checksum = '586817b4ad9ee31c05504216f9dfdcd0'
+
+[exercises."part04-Part04_21.NumberOfStrings"]
+id = 83236
+checksum = '7076002cfb10ebc604febfc60a3af085'
+
+[exercises."part04-Part04_22.Cubes"]
+id = 83237
+checksum = '66a7e13b92818ebc4cf17b25ed61bad0'
+
+[exercises."part04-Part04_23.CreatingANewFile"]
+id = 83238
+checksum = '920e72db8ec1aeeb4045368a0444e710'
+
+[exercises."part04-Part04_24.PrintingAFile"]
+id = 83239
+checksum = '00b36fef2cfcdf7c9128d26b135c2cce'
+
+[exercises."part04-Part04_25.PrintingASpecifiedFile"]
+id = 83240
+checksum = '55061b856677f466538e89a6ec66c237'
+
+[exercises."part04-Part04_26.GuestListFromAFile"]
+id = 83241
+checksum = '4bfcef8b6522c1eae9312786320f6c83'
+
+[exercises."part04-Part04_27.IsItInTheFile"]
+id = 83242
+checksum = '7049eb5d4acbee166d0b614a50d9a195'
+
+[exercises."part04-Part04_28.NumbersFromAFile"]
+id = 83243
+checksum = '04caaf7f5488e3a7e4e70fab4387764f'
+
+[exercises."part04-Part04_29.RecordsFromAFile"]
+id = 83244
+checksum = 'f1b110f361710a96fbdff1c133923e4e'
+
+[exercises."part04-Part04_30.StoringRecords"]
+id = 83245
+checksum = '6be41271d4a8c11702a53dfcf06482d5'
+
+[exercises."part04-Part04_31.SportStatistics"]
+id = 83246
+checksum = 'e159517750a25df6a2010e1fb2c6f30a'
+
+[exercises."part05-Part05_01.OneMinute"]
+id = 83247
+checksum = '94f9f6f5f95f182d42e32df8ce7f6bff'
+
+[exercises."part05-Part05_02.Book"]
+id = 83248
+checksum = '2e5a6deee308c45399babfe011d78526'
+
+[exercises."part05-Part05_03.Cube"]
+id = 83249
+checksum = '39301222a74dbb5764a1358db3d3d11c'
+
+[exercises."part05-Part05_04.FitByte"]
+id = 83250
+checksum = 'fbb56cf0ec0351d5ec8a08294cf928d1'
+
+[exercises."part05-Part05_05.ConstructorOverload"]
+id = 83251
+checksum = 'f885e60f8af604d916e38a517fbb5c55'
+
+[exercises."part05-Part05_06.OverloadedCounter"]
+id = 83252
+checksum = '63decb83af9b37fb7c49673311093611'
+
+[exercises."part05-Part05_07.NullPointerException"]
+id = 83253
+checksum = 'cb7213493c945a6f297c59b8be1c5ca2'
+
+[exercises."part05-Part05_08.BiggestPetShop"]
+id = 83254
+checksum = '0e95c19680b23ba0ba2ba7d46ec9d6f0'
+
+[exercises."part05-Part05_09.HealthStation"]
+id = 83255
+checksum = 'b7aed673262e6dc8c9ddedbd538b20b3'
+
+[exercises."part05-Part05_10.CardPayments"]
+id = 83256
+checksum = '68d091d8cb3f6921959fd5d739a1c9cd'
+
+[exercises."part05-Part05_11.ComparingApartments"]
+id = 83257
+checksum = 'cdfe9bad24dbe62efa9086b98d528b3a'
+
+[exercises."part05-Part05_12.Song"]
+id = 83258
+checksum = '3ebd5f45877b5762461671048dba87e0'
+
+[exercises."part05-Part05_13.IdenticalTwins"]
+id = 83259
+checksum = '4f9e83c96d69ba2e4cdc6793e3418dde'
+
+[exercises."part05-Part05_14.Books"]
+id = 83260
+checksum = '0334a6fe17e8ab42b896f13f34fc94e8'
+
+[exercises."part05-Part05_15.Archive"]
+id = 83261
+checksum = '4eea53c790fbdd31271878dc7f96efdb'
+
+[exercises."part05-Part05_16.DatingApp"]
+id = 83262
+checksum = '73bfeac14089b93fcf99f679d97488c7'
+
+[exercises."part05-Part05_17.Money"]
+id = 83263
+checksum = '2d8c6850b41355d39e99ad7a542f6e91'
+
+[exercises."part06-Part06_01.Menu"]
+id = 83264
+checksum = '39d743066316a4bc5422bfe98abf20d4'
+
+[exercises."part06-Part06_02.Stack"]
+id = 83265
+checksum = 'b5691b769ae7e26bac109fb916c17007'
+
+[exercises."part06-Part06_03.MessagingService"]
+id = 83266
+checksum = 'a93f282618bf687fc57087e920aabc58'
+
+[exercises."part06-Part06_04.PrintingACollection"]
+id = 83267
+checksum = 'b15fb0429a60bb1261119f254088d650'
+
+[exercises."part06-Part06_05.SantasWorkshop"]
+id = 83268
+checksum = '4f0ef951bef571332945e1aa2f104c8b'
+
+[exercises."part06-Part06_06.LongestInCollection"]
+id = 83269
+checksum = '2f7e7a5447e43b1824cde500894bef5b'
+
+[exercises."part06-Part06_07.HeightOrder"]
+id = 83270
+checksum = '5138219805be1da541cb1ccf29cd2672'
+
+[exercises."part06-Part06_08.CargoHold"]
+id = 83271
+checksum = '5a9cebec765a7debd33e5ddc63f8ba69'
+
+[exercises."part06-Part06_09.SimpleDictionary"]
+id = 83272
+checksum = '2e3c3ce27a3cc511c961d78a7abd76cb'
+
+[exercises."part06-Part06_10.TodoList"]
+id = 83273
+checksum = '69d80d59d6e90901c91060489278ecca'
+
+[exercises."part06-Part06_11.Averages"]
+id = 83274
+checksum = 'd85fca2c255cec42bec7377f9d22f804'
+
+[exercises."part06-Part06_12.JokeManager"]
+id = 83275
+checksum = 'c0920579e9a769d14244a2d8d27fecff'
+
+[exercises."part06-Part06_13.Exercises"]
+id = 83276
+checksum = 'cbf4ee4b81164510c547c35499415db6'
+
+[exercises."part07-Part07_01.LiquidContainers"]
+id = 83277
+checksum = 'cbba8f17ef3abe2e3c14376b746d114d'
+
+[exercises."part07-Part07_02.LiquidContainers2"]
+id = 83278
+checksum = 'bdb7c713d1b49c50a36f8092f90048ee'
+
+[exercises."part07-Part07_03.Sorting"]
+id = 83279
+checksum = '031130e923a9aac3c8a4453c8899b2d2'
+
+[exercises."part07-Part07_04.ReadymadeSortingAlgorithms"]
+id = 83280
+checksum = '1131436e59b351d4056ecb5e800bb4e5'
+
+[exercises."part07-Part07_05.Searching"]
+id = 83281
+checksum = '8462a4d763de9e720b121a01a368a898'
+
+[exercises."part07-Part07_06.GradeStatistics"]
+id = 83282
+checksum = '067bcfc23648d0cc80dc31ebe82adc12'
+
+[exercises."part07-Part07_07.RecipeSearch"]
+id = 83283
+checksum = '56d605c258125d134498f48a9c497b34'
+
+[exercises."part07-Part07_08.BigYear"]
+id = 83284
+checksum = '57ec0d538cef8f6d544a70e0e6c5b1b8'
