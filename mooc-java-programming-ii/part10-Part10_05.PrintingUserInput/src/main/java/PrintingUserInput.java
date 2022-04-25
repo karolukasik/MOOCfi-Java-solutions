@@ -1,0 +1,22 @@
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class PrintingUserInput {
+
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        ArrayList<String> input = new ArrayList<>();
+
+        while (true) {
+            String in = scanner.nextLine();
+            if (in.equals("")) {
+                break;
+            }
+            input.add(in);
+        }
+
+        input.stream().forEach(item -> System.out.println(item));
+        scanner.close();
+    }
+}

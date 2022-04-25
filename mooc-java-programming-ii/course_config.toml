@@ -1,0 +1,360 @@
+course = 'mooc-java-programming-ii'
+[exercises."part08-Part08_01.Cubes"]
+id = 87694
+checksum = '43758bf10ed212527b17b958a74534c5'
+
+[exercises."part08-Part08_02.AverageOfPositiveNumbers"]
+id = 87695
+checksum = '9e2ae6b3c65b63f4af0ebe4c60544263'
+
+[exercises."part08-Part08_03.LiquidContainers"]
+id = 87696
+checksum = 'a57aa15e265e63a26f92442ca171591a'
+
+[exercises."part08-Part08_04.LiquidContainers2"]
+id = 87697
+checksum = '4e2451f336269dabd492e2d2e3ebcd95'
+
+[exercises."part08-Part08_05.TodoList"]
+id = 87698
+checksum = '04722994ee2124b19bc4381c74b3b391'
+
+[exercises."part08-Part08_06.Nicknames"]
+id = 87699
+checksum = '1da57b943422048473e20eee1f0ca80d'
+
+[exercises."part08-Part08_07.Abbreviations"]
+id = 87700
+checksum = '85e992b573e26c8f7a9f702e946299da'
+
+[exercises."part08-Part08_08.PrintMeMyHashmap"]
+id = 87701
+checksum = '8f3fe76736082ba14ea9020c09bee243'
+
+[exercises."part08-Part08_09.PrintMeAnotherHashmap"]
+id = 87702
+checksum = '65bdf1f4f19aa3ccf62032b79f9f6632'
+
+[exercises."part08-Part08_10.IOweYou"]
+id = 87703
+checksum = '31c32815ce2e698d992dc54a8ad2c134'
+
+[exercises."part08-Part08_11.SameDate"]
+id = 87704
+checksum = 'a1e43d456c4faa798a4c85d1fa14a2e8'
+
+[exercises."part08-Part08_12.HashedDate"]
+id = 87705
+checksum = 'd2f8918218e9ca49f1cefca3154ecef5'
+
+[exercises."part08-Part08_13.VehicleRegistry"]
+id = 87706
+checksum = '0c3417697743a379ea4def4e895841c8'
+
+[exercises."part08-Part08_14.DictionaryOfManyTranslations"]
+id = 87707
+checksum = '1c20b8c8f052fa3b6a6b67f3126716e9'
+
+[exercises."part08-Part08_15.StorageFacility"]
+id = 87708
+checksum = 'd2750f7633eb16c5cab867530685d3cf'
+
+[exercises."part09-Part09_01.ABC"]
+id = 87709
+checksum = '33cc80381376403e8c0c6e8f342acf9f'
+
+[exercises."part09-Part09_02.PersonAndSubclasses"]
+id = 87710
+checksum = 'dcade1c7820051848ded94edd9c661a3'
+
+[exercises."part09-Part09_03.Warehousing"]
+id = 87711
+checksum = '27a785b46714b5314e3d576bfb4761d3'
+
+[exercises."part09-Part09_04.DifferentKindsOfBoxes"]
+id = 87712
+checksum = 'd4cff1c1edda8c017d1d40aa7e72c3d4'
+
+[exercises."part09-Part09_05.TacoBoxes"]
+id = 87713
+checksum = 'b1ff116697db764e64120ddf4c91aacc'
+
+[exercises."part09-Part09_06.InterfaceInABox"]
+id = 87714
+checksum = 'ec453cc8e80c08653432bd8463b0e485'
+
+[exercises."part09-Part09_07.ListAsAMethodParameter"]
+id = 87715
+checksum = '85880b47dc57a786b351680ab2a01065'
+
+[exercises."part09-Part09_08.MapAsAMethodParameter"]
+id = 87716
+checksum = '224e189c39407fd9ea1f2ab26f430040'
+
+[exercises."part09-Part09_09.SetAsMethodParameter"]
+id = 87717
+checksum = 'd7ce961b6f1fd94904d87522cbf71259'
+
+[exercises."part09-Part09_10.OnlineShop"]
+id = 87718
+checksum = '46afb3cfc5458af4432cd209d67003a0'
+
+[exercises."part09-Part09_11.Herds"]
+id = 87719
+checksum = '429d7525f586e32887cb08dbd8070e8c'
+
+[exercises."part09-Part09_12.Animals"]
+id = 87720
+checksum = 'd5fc386695a60979fb147901032fa700'
+
+[exercises."part10-Part10_01.AverageOfNumbers"]
+id = 87721
+checksum = '270ec217fcc94e087869496574f20362'
+
+[exercises."part10-Part10_02.AverageOfSelectedNumbers"]
+id = 87722
+checksum = '246d1456df9a708383bf1752bac64a9e'
+
+[exercises."part10-Part10_03.PositiveNumbers"]
+id = 87723
+checksum = '66c146233423aeb35d12cf5a2d773b22'
+
+[exercises."part10-Part10_04.Divisible"]
+id = 87724
+checksum = '6d5d14ee5216156e81a36daf56b49d20'
+
+[exercises."part10-Part10_05.PrintingUserInput"]
+id = 87725
+checksum = 'c99ae3028a776f6b886774b88896f3b9'
+
+[exercises."part10-Part10_06.LimitedNumbers"]
+id = 87726
+checksum = '79e733bc51ec7ee849a276c7dd332b2d'
+
+[exercises."part10-Part10_07.UniqueLastNames"]
+id = 87727
+checksum = '0acb395be532c59ac831c8b3fffcc48e'
+
+[exercises."part10-Part10_08.Weighting"]
+id = 87728
+checksum = '80b2f77b4cd6dd9352293c00f9d99c7c'
+
+[exercises."part10-Part10_09.ReadingFilesPerLine"]
+id = 87729
+checksum = '9dd063845b3a512271c20320cc128e7f'
+
+[exercises."part10-Part10_10.BooksFromFile"]
+id = 87730
+checksum = '23d7d097731a3815d3d9b8ee24c8738d'
+
+[exercises."part10-Part10_11.WageOrder"]
+id = 87731
+checksum = '08635d3cffb24afd01ff1780cd77bc65'
+
+[exercises."part10-Part10_12.StudentsOnAlphabeticalOrder"]
+id = 87732
+checksum = '1a9f62c3b66e534e90c080494ef455f0'
+
+[exercises."part10-Part10_13.LiteracyComparison"]
+id = 87733
+checksum = 'bf9068417b42d845318ef8da69d18961'
+
+[exercises."part10-Part10_14.Literature"]
+id = 87734
+checksum = '80151db58eb4bcc3c8b628c607d0a601'
+
+[exercises."part10-Part10_15.RegularExpressions"]
+id = 87735
+checksum = '5ba873d3c696dd24767fbef24227ec85'
+
+[exercises."part10-Part10_16.EnumAndIterator"]
+id = 87736
+checksum = 'cef95ad12b7acbf366ac1b6c0835a531'
+
+[exercises."part10-Part10_17.SortThemCards"]
+id = 87737
+checksum = 'e547c245001554fe16126a4159c38d54'
+
+[exercises."part11-Part11_01.Customer"]
+id = 87738
+checksum = 'dbc2b1df63974a0fd3aa73e6d45e9cae'
+
+[exercises."part11-Part11_02.ABookAndAPlane"]
+id = 87739
+checksum = 'f1974c54177072b260f7c706858499e2'
+
+[exercises."part11-Part11_03.ShowAndTicket"]
+id = 87740
+checksum = '115229fd74c1d4bc7d3f6416ac1dde3e'
+
+[exercises."part11-Part11_04.StudentAndUniversity"]
+id = 87741
+checksum = '710aa871a87f08c68f8663462576bf52'
+
+[exercises."part11-Part11_05.ThePlayerAndTheBot"]
+id = 87742
+checksum = '073de254b9c186086972109b5b57d451'
+
+[exercises."part11-Part11_06.SaveablePerson"]
+id = 87743
+checksum = '3a264d6e3218c18ab70a6617c0c2ad5c'
+
+[exercises."part11-Part11_07.BiggerClassDiagram"]
+id = 87744
+checksum = '1a40e3a7a204448c5c798a789dc5448d'
+
+[exercises."part11-Part11_08.FirstPackages"]
+id = 87745
+checksum = 'daa0f367db498f673a8d8988829a349c'
+
+[exercises."part11-Part11_09.TheThreePackages"]
+id = 87746
+checksum = '9cb6fe6d5ffeffe91c6789507b83a32d'
+
+[exercises."part11-Part11_10.FlightControl"]
+id = 87747
+checksum = '504a03a72aeb44cc6fe22333076384f8'
+
+[exercises."part11-Part11_11.ValidatingParameters"]
+id = 87748
+checksum = 'dcbf70c2273cff25bde54552293cc871'
+
+[exercises."part11-Part11_12.SensorsAndTemperature"]
+id = 87749
+checksum = '65e92d5b770a10153ad2e2a0c191d6e2'
+
+[exercises."part11-Part11_13.SaveableDictionary"]
+id = 87750
+checksum = '319a59d9a58ebf7aeef69ff9d5670744'
+
+[exercises."part12-Part12_01.Hideout"]
+id = 87751
+checksum = '5ef3a1cc181b9e6583e52307620137c9'
+
+[exercises."part12-Part12_02.Pipe"]
+id = 87752
+checksum = '07ac969488453030a929b0946dfd5cd1'
+
+[exercises."part12-Part12_03.SumTheseForMe"]
+id = 87753
+checksum = '60c62db80d5fa5a4272d7a63639f43ce'
+
+[exercises."part12-Part12_04.List"]
+id = 87754
+checksum = '72a549362f3a87f7867942adfb5fc3ba'
+
+[exercises."part12-Part12_05.HashMap"]
+id = 87755
+checksum = '1b54e1b2d1ff0d88ee685cc167c49f42'
+
+[exercises."part12-Part12_06.Numbers"]
+id = 87756
+checksum = '359274f6a66c45d32c62379cd353f4d0'
+
+[exercises."part12-Part12_07.Die"]
+id = 87757
+checksum = 'a70b4db0a7f7b63547d7b313bc30154f'
+
+[exercises."part12-Part12_08.Lottery"]
+id = 87758
+checksum = '13c2bb7d030e2fe8f35fc2fdd53ec955'
+
+[exercises."part12-Part12_09.ArrayAsAString"]
+id = 87759
+checksum = 'efaf3f0a93d94e5bbfdfdb6fa5129e94'
+
+[exercises."part12-Part12_10.MagicSquare"]
+id = 87760
+checksum = '2bc72e1d7d1433681ed87ea79e83e400'
+
+[exercises."part13-Part13_01.MyFirstApplication"]
+id = 87761
+checksum = '2d181f5f22621737f7d0b6807f775135'
+
+[exercises."part13-Part13_02.ButtonAndLabel"]
+id = 87762
+checksum = '3f181fb1e85c5bb7eac90ec1c1159e94'
+
+[exercises."part13-Part13_03.ButtonAndTextField"]
+id = 87763
+checksum = '290ea13709d850d71f65e1c8e29e844c'
+
+[exercises."part13-Part13_04.BorderPane"]
+id = 87764
+checksum = '7568b5cc64fde2c3222b60568f2835b6'
+
+[exercises."part13-Part13_05.TextStatistics"]
+id = 87765
+checksum = '1c667852a511a0324978885213753640'
+
+[exercises."part13-Part13_06.Notifier"]
+id = 87766
+checksum = 'd94fb2c7d615d306fe55a188a2f6dc86'
+
+[exercises."part13-Part13_07.TextStatisticsPart2"]
+id = 87767
+checksum = '339ae10d3e8fe001dc434043643ee9fb'
+
+[exercises."part13-Part13_08.UserTitle"]
+id = 87768
+checksum = '5723a7d3f2a923e0fcd8e935ca642a6b'
+
+[exercises."part13-Part13_09.MultipleViews"]
+id = 87769
+checksum = '72ad7faf0cb216a7b0726f0d0de20614'
+
+[exercises."part13-Part13_10.Greeter"]
+id = 87770
+checksum = 'a843e40b85a8cf0e9c0dce3d737799fd'
+
+[exercises."part13-Part13_11.Joke"]
+id = 87771
+checksum = 'a4e817a830e93726b143ffb1957dff96'
+
+[exercises."part13-Part13_12.VocabularyPractice"]
+id = 87772
+checksum = '6a34568cf89fde672c5b069a239fe518'
+
+[exercises."part13-Part13_13.TicTacToe"]
+id = 87773
+checksum = '3c5999488361e231113c8a058744a5a3'
+
+[exercises."part14-Part14_01.Shanghai"]
+id = 87774
+checksum = 'd7e6aa20777ec1d075790e47a116c268'
+
+[exercises."part14-Part14_02.FinnishParties"]
+id = 87775
+checksum = 'f32f8bcf69fb29dea0eb8ec75e30e990'
+
+[exercises."part14-Part14_03.SavingsCalculator"]
+id = 87776
+checksum = 'a477421c224b736127a786f9a24feaf9'
+
+[exercises."part14-Part14_04.UnfairAdvertisement"]
+id = 87777
+checksum = '4904fd24129854477ca2e96d774cb318'
+
+[exercises."part14-Part14_05.CyclingStatistics"]
+id = 87778
+checksum = 'a53592ece5b99f8e7ae0bd2ae9bdf4c7'
+
+[exercises."part14-Part14_06.Smiley"]
+id = 87779
+checksum = '07a10f4cd1b1c8de45921a4bef2d77b6'
+
+[exercises."part14-Part14_07.Collage"]
+id = 87780
+checksum = 'f75c4126edc2fec4757073b589d10221'
+
+[exercises."part14-Part14_08.Hurray"]
+id = 87781
+checksum = 'f286bb26ebd82d86d9ba2d8fb30048ed'
+
+[exercises."part14-Part14_09.Asteroids"]
+id = 87782
+checksum = 'edab5920decb2753b1f65cdb6bbbf774'
+
+[exercises."part14-Part14_10.Database"]
+id = 87783
+checksum = 'd2ac3b918d44ad2db367077c8e147814'
